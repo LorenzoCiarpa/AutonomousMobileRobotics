@@ -1,0 +1,9 @@
+__pycache__/
+/imgs
+random_tree.png
+phi_s.log
+optimal_trajectory.pkl
+optimal_trajectory_nonlinear.pkl
+optimal_path.png
+logger1.log
+Utils/constants.py
